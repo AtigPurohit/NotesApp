@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="submit">SUBMIT</string>
+</resources>
